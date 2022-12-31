@@ -1,0 +1,16 @@
+###
+GET http://www.omdbapi.com/?t=john&apikey=232f4ea1
+
+###
+
+GET https://newsapi.org/v2/top-headlines?country=us&apiKey=e04e647511fd4cf5a162aadc321de5ca
+
+###
+GET https://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=e04e647511fd4cf5a162aadc321de5ca
+
+###
+GET https://opentdb.com/api.php?amount=10&category=23&difficulty=medium&type=multiple
+
+
+###
+GET https://opentdb.com/api.php?amount=10&category=24&difficulty=medium&type=multiple

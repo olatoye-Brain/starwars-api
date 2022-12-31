@@ -1,0 +1,22 @@
+@media(min-width:768px ){
+  .postion-sidebar{
+    position: fixed!important;
+  }
+  .searbar-dropdown{
+    width: 28rem
+  }
+  .sidebar{
+    width: 18rem
+  }
+}
+
+@media(max-width: 786px){
+  .searbar-dropdown{
+    width: 15rem
+  }
+  .sidebar{
+    width: 100%
+  }
+
+  
+}
